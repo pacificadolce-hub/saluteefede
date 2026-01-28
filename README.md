@@ -10,7 +10,7 @@ Sito web e-commerce per la vendita di pacchetti dieta con pannello di amministra
 - **Autenticazione**: Supabase Auth
 - **Pagamenti**: Stripe
 - **Storage**: Supabase Storage
-
+a
 ## Struttura Progetto
 
 ```
